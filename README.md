@@ -23,6 +23,13 @@ Tengo más de un año de experiencia trabajando con frameworks de JavaScript com
 | Control de versiones con Git | Marketing de Contenidos |
 | Contenedores Docker | Creación de contenido Online |
 
+## Top Lenguajes en Mis Repositorios
+
+Si bien mi especialidad es el desarrollo web con frameworks de JavaScript como Vue, también tengo experiencia en Java y otros lenguajes. En el siguiente gráfico se muestran los lenguajes de programación más utilizados en mis proyectos de GitHub. ¡Echa un vistazo y descubre más sobre mis habilidades de programación!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabcrudel&layout=compact&langs_count=10&hide_title=true)](https://github.com/pabcrudel?tab=repositories)
+
+
 ## ¡Hablemos!
 
 Si quieres conocer más sobre mi experiencia y habilidades, te invito a visitar mi perfil de [linkedin](https://www.linkedin.com/in/pablocrudelhom/). ¡No dudes en ponerte en contacto conmigo si estás interesado en trabajar juntos en algún proyecto emocionante! 
