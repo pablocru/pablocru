@@ -32,6 +32,6 @@ Si bien mi especialidad es el desarrollo web con frameworks de JavaScript como V
 
 ## ¡Hablemos!
 
-Si quieres conocer más sobre mi experiencia y habilidades, te invito a visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/pablocrudelhom/). ¡No dudes en ponerte en contacto conmigo si estás interesado en trabajar juntos en algún proyecto emocionante! 
+Si quieres conocer más sobre mi experiencia y habilidades, te invito a visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/pablocrudelhom/). ¡No dudes en ponerte en contacto conmigo si te interesa que trabajemos juntos en algún proyecto emocionante! 
 
 ¡Gracias por visitar mi perfil! ¡Hablemos pronto! 🚀
