@@ -3,7 +3,7 @@ pabcrudel/pabcrudel is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">¡Hola! 👋 Soy Pablo</h1>
+<h1 align="center">¡Hola! Soy Pablo</h1>
 <h2 align="center">Desarrollador web en proceso</h2>
 
 ¡Bienvenido a mi perfil de Github! Soy desarrollador web en formación con experiencia en marketing digital y creación de contenido web. Actualmente estoy estudiando el Grado Superior de Desarrollo de Aplicaciones Web y estoy emocionado por aprender más sobre el mundo del desarrollo de software.
