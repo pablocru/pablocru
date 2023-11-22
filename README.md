@@ -3,8 +3,9 @@ pabcrudel/pabcrudel is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">¡Hola! Soy Pablo</h1>
-<h2 align="center">Desarrollador web en proceso</h2>
+# ¡Hola! Soy Pablo
+
+## Desarrollador web en proceso
 
 ¡Bienvenido a mi perfil de Github! Soy desarrollador web en formación con experiencia en marketing digital y creación de contenido web. Actualmente estoy estudiando el Grado Superior de Desarrollo de Aplicaciones Web y estoy emocionado por aprender más sobre el mundo del desarrollo de software.
 
@@ -29,9 +30,8 @@ Si bien mi especialidad es el desarrollo web con frameworks de JavaScript como V
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabcrudel&layout=compact&langs_count=10&hide_title=true)](https://github.com/pabcrudel?tab=repositories)
 
+## ¡Hablemos
 
-## ¡Hablemos!
-
-Si quieres conocer más sobre mi experiencia y habilidades, te invito a visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/pablocrudelhom/). ¡No dudes en ponerte en contacto conmigo si te interesa que trabajemos juntos en algún proyecto emocionante! 
+Si quieres conocer más sobre mi experiencia y habilidades, te invito a visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/pablocrudelhom/). ¡No dudes en ponerte en contacto conmigo si te interesa que trabajemos juntos en algún proyecto emocionante!
 
 ¡Gracias por visitar mi perfil! ¡Hablemos pronto! 🚀
