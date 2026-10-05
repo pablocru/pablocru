@@ -73,12 +73,6 @@ código para facilitar la impresión y la generación de PDF.
 - Kubernetes, contenedores e infraestructura como código.
 - Observabilidad, troubleshooting y mejora continua.
 
-## Cómo trabajo
-
-Me gusta compartir conocimiento, tutorizar perfiles junior y acompañar
-onboardings. También disfruto colaborando con equipos de desarrollo, datos y
-plataforma para convertir problemas técnicos en soluciones claras y mantenibles.
-
 ## Tecnologías con las que trabajo
 
 | Área       | Tecnologías                                                    |
