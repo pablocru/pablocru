@@ -4,52 +4,96 @@ pablocru/pablocru is a ✨ special ✨ repository because its `README.md`
 take a look at your changes.
 --->
 
-# ¡Hola! Soy Pablo
+# Hola, soy Pablo Cru Delhom
 
-## Desarrollador web en proceso
+## Web Full Stack Developer | Data Engineer
 
-¡Bienvenido a mi perfil de Github! Soy desarrollador web en formación con
-experiencia en marketing digital y creación de contenido web. Actualmente estoy
-estudiando el Grado Superior de Desarrollo de Aplicaciones Web y estoy
-emocionado por aprender más sobre el mundo del desarrollo de software.
+Desarrollador de software con experiencia en desarrollo web, ingeniería de datos
+y plataformas cloud. Trabajo entre frontend, backend y plataforma para construir
+productos digitales fiables, observables y fáciles de entregar.
 
-## Experiencia en Marketing Digital
+Mi stack principal incluye Vue.js, TypeScript, Python, .NET, Docker, Kubernetes
+y CI/CD. He trabajado con Google Cloud, AWS y Azure, adaptando los mismos
+fundamentos de desarrollo, automatización y gestión de datos a diferentes
+arquitecturas y equipos.
 
-Antes de comenzar mi carrera en desarrollo de software, me gradué en Marketing e
-Investigación de Mercados por la Universidad de Málaga. Durante mis estudios y
-en mi trabajo, me especialicé en Marketing Digital, Posicionamiento Web (SEO),
-Marketing de Contenidos y Creación de Contenido Online. Estos conocimientos me
-han permitido entender mejor las necesidades de los usuarios y crear contenido
-relevante y útil.
+Mi formación en Marketing e Investigación de Mercados y mi experiencia en
+marketing digital, SEO y creación de contenido web complementan mi perfil
+técnico. Me interesa combinar el análisis de datos y la programación para
+entender mejor las necesidades de los usuarios y crear soluciones efectivas,
+eficientes y útiles.
 
-## Habilidades técnicas
+## Proyectos destacados
 
-Tengo más de un año de experiencia trabajando con frameworks de JavaScript como
-Vue y también tengo conocimientos en Java. Además, estoy familiarizado con
-herramientas de control de versiones como Git y contenedores Docker.
+### [Kubernetes Task Orchestrator](https://github.com/pablocru/k8s-orchestrator)
 
-| Habilidades de Programación        | Habilidades de Marketing     |
-| ---------------------------------- | ---------------------------- |
-| Desarrollo web con Vue.js          | Marketing Digital            |
-| Desarrollo de aplicacions con Java | Posicionamiento Web (SEO)    |
-| Control de versiones con Git       | Marketing de Contenidos      |
-| Contenedores Docker                | Creación de contenido Online |
+Servicio construido con .NET 8 para orquestar tareas HTTP y recopilar sus
+respuestas en un entorno Kubernetes.
 
-## Top Lenguajes en Mis Repositorios
+**Stack:** .NET 8, C#, REST API, Docker y Kubernetes.
 
-Si bien mi especialidad es el desarrollo web con frameworks de JavaScript como
-Vue, también tengo experiencia en Java y otros lenguajes. En el siguiente
-gráfico se muestran los lenguajes de programación más utilizados en mis
-proyectos de GitHub. ¡Echa un vistazo y descubre más sobre mis habilidades de
-programación!
+### [AWS CDK Website Deployment](https://github.com/pablocru/aws-cdk-website-deployment)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocru&layout=compact&langs_count=10&hide_title=true)](https://github.com/pablocru?tab=repositories)
+Stack de AWS CDK para desplegar un sitio estático en Amazon S3 y distribuirlo
+mediante CloudFront, con configuración de seguridad y caché.
 
-## ¡Hablemos
+**Stack:** TypeScript, AWS CDK, IaC, Amazon S3 y CloudFront.
 
-Si quieres conocer más sobre mi experiencia y habilidades, te invito a visitar
-mi perfil de [LinkedIn](https://www.linkedin.com/in/pablocrudelhom/). ¡No dudes
-en ponerte en contacto conmigo si te interesa que trabajemos juntos en algún
-proyecto emocionante!
+### [Looker Studio Umami Connector](https://github.com/pablocru/looker-studio-umami-connector)
 
-¡Gracias por visitar mi perfil! ¡Hablemos pronto! 🚀
+Community Connector desarrollado con TypeScript para utilizar la API de Umami
+Analytics desde Google Looker Studio y visualizar datos de analítica digital.
+
+**Stack:** TypeScript, Umami Analytics API y Google Looker Studio.
+
+### [FireSpotter](https://github.com/miguelanguai/FireSpotter)
+
+Proyecto ganador de NASA Space Apps Valencia 2023: aplicación web para predecir
+el avance de incendios en tiempo real mediante APIs públicas. En esta
+[publicación de LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7117237375822389249/),
+Miguel Ángel Guaita documenta que el equipo recibió el premio al mejor uso de
+datos y el primer premio general del evento. También puedes consultar el
+[proyecto original](https://github.com/miguelanguai/FireSpotter) y la
+[demo desplegada](https://miguelanguai.github.io/FireSpotter/).
+
+**Stack:** JavaScript, HTML, CSS, APIs públicas y GitHub Pages.
+
+### [Curriculum Vitae con Astro](https://github.com/pablocru/curriculum-vitae)
+
+CV estructurado con Astro, contenido local y una presentación controlada por
+código para facilitar la impresión y la generación de PDF.
+
+**Stack:** Astro, TypeScript, Markdown y GitHub Pages.
+
+## Áreas de trabajo
+
+- Desarrollo de aplicaciones web Full Stack.
+- Data Engineering y analítica digital.
+- Cloud architecture, CI/CD y despliegues automatizados.
+- Desarrollo y mantenimiento de aplicaciones contenerizadas e infraestructura
+  como código.
+- Observabilidad, troubleshooting y mejora continua.
+
+## Tecnologías con las que trabajo
+
+| Área       | Tecnologías                                                    |
+| ---------- | -------------------------------------------------------------- |
+| Frontend   | Vue.js 3, TypeScript, JavaScript, HTML, CSS, Axios             |
+| Backend    | Python, .NET, C#, Node.js, APIs REST, OpenAPI, Swagger         |
+| Cloud      | Azure, AWS, Google Cloud Platform                              |
+| Plataforma | Azure DevOps, GitHub Actions, Docker, Kubernetes, AWS CDK, IaC |
+| Datos      | SQL Server, KQL, BigQuery, Databricks, Power BI, Streamlit     |
+| Testing    | Jest, Vitest, pruebas E2E                                      |
+
+## Lenguajes más utilizados
+
+Resumen orientativo de los lenguajes presentes en mis repositorios públicos.
+
+[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocru&layout=compact&langs_count=10&hide_title=true)](https://github.com/pablocru?tab=repositories)
+
+## Contacto
+
+Si quieres conocer mejor mi experiencia o comentar un proyecto, puedes contactar
+conmigo a través de [LinkedIn](https://www.linkedin.com/in/pablocrudelhom/).
+También puedes consultar mi [portfolio](https://pablocru.github.io/) para ver
+otros trabajos y proyectos.
