@@ -1,0 +1,28 @@
+name: Quality gate
+
+on:
+  push:
+  pull_request:
+  workflow_call:
+  workflow_dispatch:
+
+concurrency:
+  group: quality-gate-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  markdown:
+    name: Quality gate for Markdown files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
+
+      - name: Install mise and pinned tools
+        uses: jdx/mise-action@v5.1.1
+
+      - name: Check Markdown formatting
+        run: mise run check
