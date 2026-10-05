@@ -23,26 +23,6 @@ técnico. Me interesa combinar el análisis de datos y la programación para
 entender mejor las necesidades de los usuarios y crear soluciones efectivas,
 eficientes y útiles.
 
-## Áreas de interés
-
-- Desarrollo de aplicaciones web Full Stack.
-- Data Engineering y analítica digital.
-- Cloud architecture, CI/CD y despliegues automatizados.
-- Kubernetes, contenedores e infraestructura como código.
-- Observabilidad, troubleshooting y mejora continua.
-- Compartir conocimiento, tutorizar perfiles junior y acompañar onboardings.
-
-## Tecnologías con las que trabajo
-
-| Área       | Tecnologías                                                    |
-| ---------- | -------------------------------------------------------------- |
-| Frontend   | Vue.js 3, TypeScript, JavaScript, HTML, CSS, Axios             |
-| Backend    | Python, .NET, C#, Node.js, APIs REST, OpenAPI, Swagger         |
-| Cloud      | Azure, AWS, Google Cloud Platform                              |
-| Plataforma | Azure DevOps, GitHub Actions, Docker, Kubernetes, AWS CDK, IaC |
-| Datos      | SQL Server, KQL, BigQuery, Databricks, Power BI, Streamlit     |
-| Testing    | Jest, Vitest, pruebas E2E                                      |
-
 ## Proyectos destacados
 
 ### [Kubernetes Task Orchestrator](https://github.com/pablocru/k8s-orchestrator)
@@ -69,6 +49,26 @@ datos y el primer premio general del evento. También puedes consultar el
 
 CV estructurado con Astro, contenido local y una presentación controlada por
 código para facilitar la impresión y la generación de PDF.
+
+## Áreas de interés
+
+- Desarrollo de aplicaciones web Full Stack.
+- Data Engineering y analítica digital.
+- Cloud architecture, CI/CD y despliegues automatizados.
+- Kubernetes, contenedores e infraestructura como código.
+- Observabilidad, troubleshooting y mejora continua.
+- Compartir conocimiento, tutorizar perfiles junior y acompañar onboardings.
+
+## Tecnologías con las que trabajo
+
+| Área       | Tecnologías                                                    |
+| ---------- | -------------------------------------------------------------- |
+| Frontend   | Vue.js 3, TypeScript, JavaScript, HTML, CSS, Axios             |
+| Backend    | Python, .NET, C#, Node.js, APIs REST, OpenAPI, Swagger         |
+| Cloud      | Azure, AWS, Google Cloud Platform                              |
+| Plataforma | Azure DevOps, GitHub Actions, Docker, Kubernetes, AWS CDK, IaC |
+| Datos      | SQL Server, KQL, BigQuery, Databricks, Power BI, Streamlit     |
+| Testing    | Jest, Vitest, pruebas E2E                                      |
 
 ## Lenguajes más utilizados
 
