@@ -70,7 +70,8 @@ código para facilitar la impresión y la generación de PDF.
 - Desarrollo de aplicaciones web Full Stack.
 - Data Engineering y analítica digital.
 - Cloud architecture, CI/CD y despliegues automatizados.
-- Kubernetes, contenedores e infraestructura como código.
+- Desarrollo y mantenimiento de aplicaciones contenerizadas e infraestructura
+  como código.
 - Observabilidad, troubleshooting y mejora continua.
 
 ## Tecnologías con las que trabajo
