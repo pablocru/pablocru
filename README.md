@@ -30,15 +30,21 @@ eficientes y útiles.
 Servicio construido con .NET 8 para orquestar tareas HTTP y recopilar sus
 respuestas en un entorno Kubernetes.
 
+**Stack:** .NET 8, C#, REST API, Docker y Kubernetes.
+
 ### [AWS CDK Website Deployment](https://github.com/pablocru/aws-cdk-website-deployment)
 
 Stack de AWS CDK para desplegar un sitio estático en Amazon S3 y distribuirlo
 mediante CloudFront, con configuración de seguridad y caché.
 
+**Stack:** TypeScript, AWS CDK, IaC, Amazon S3 y CloudFront.
+
 ### [Looker Studio Umami Connector](https://github.com/pablocru/looker-studio-umami-connector)
 
 Community Connector desarrollado con TypeScript para utilizar la API de Umami
 Analytics desde Google Looker Studio y visualizar datos de analítica digital.
+
+**Stack:** TypeScript, Umami Analytics API y Google Looker Studio.
 
 ### [FireSpotter](https://github.com/miguelanguai/FireSpotter)
 
@@ -50,10 +56,14 @@ datos y el primer premio general del evento. También puedes consultar el
 [proyecto original](https://github.com/miguelanguai/FireSpotter) y la
 [demo desplegada](https://miguelanguai.github.io/FireSpotter/).
 
+**Stack:** JavaScript, HTML, CSS, APIs públicas y GitHub Pages.
+
 ### [Curriculum Vitae con Astro](https://github.com/pablocru/curriculum-vitae)
 
 CV estructurado con Astro, contenido local y una presentación controlada por
 código para facilitar la impresión y la generación de PDF.
+
+**Stack:** Astro, TypeScript, Markdown y GitHub Pages.
 
 ## Áreas de interés
 
