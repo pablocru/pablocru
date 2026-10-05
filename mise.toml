@@ -1,0 +1,10 @@
+[tools]
+rumdl = "0.2.78"
+
+[tasks.fmt]
+description = "Format Markdown"
+run = "rumdl fmt"
+
+[tasks.check]
+description = "Check Markdown formatting"
+run = "rumdl check"
