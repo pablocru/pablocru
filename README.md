@@ -35,6 +35,11 @@ respuestas en un entorno Kubernetes.
 Stack de AWS CDK para desplegar un sitio estático en Amazon S3 y distribuirlo
 mediante CloudFront, con configuración de seguridad y caché.
 
+### [Looker Studio Umami Connector](https://github.com/pablocru/looker-studio-umami-connector)
+
+Community Connector desarrollado con TypeScript para utilizar la API de Umami
+Analytics desde Google Looker Studio y visualizar datos de analítica digital.
+
 ### [FireSpotter](https://github.com/miguelanguai/FireSpotter)
 
 Proyecto ganador de NASA Space Apps Valencia 2023: aplicación web para predecir
