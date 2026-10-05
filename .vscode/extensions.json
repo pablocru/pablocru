@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "github.vscode-github-actions",
+    "hverlin.mise-vscode",
+    "redhat.vscode-yaml",
+    "rvben.rumdl",
+    "tamasfe.even-better-toml"
+  ]
+}
