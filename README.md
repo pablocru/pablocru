@@ -65,14 +65,19 @@ código para facilitar la impresión y la generación de PDF.
 
 **Stack:** Astro, TypeScript, Markdown y GitHub Pages.
 
-## Áreas de interés
+## Áreas de trabajo
 
 - Desarrollo de aplicaciones web Full Stack.
 - Data Engineering y analítica digital.
 - Cloud architecture, CI/CD y despliegues automatizados.
 - Kubernetes, contenedores e infraestructura como código.
 - Observabilidad, troubleshooting y mejora continua.
-- Compartir conocimiento, tutorizar perfiles junior y acompañar onboardings.
+
+## Cómo trabajo
+
+Me gusta compartir conocimiento, tutorizar perfiles junior y acompañar
+onboardings. También disfruto colaborando con equipos de desarrollo, datos y
+plataforma para convertir problemas técnicos en soluciones claras y mantenibles.
 
 ## Tecnologías con las que trabajo
 
